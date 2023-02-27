@@ -27,16 +27,16 @@
 <h2>환경</h2>
 <ul>
   <li>Java</li>
-- Spring
-- JavaScript
-- Ajax
-- JQuery
-- HTML5 & CSS3
-- Oracle
-- MyBatis
-- Tomcat
-- IntelliJ
-  </ul>
+  <li>Spring</li>
+  <li>JavaScript</li>
+  <li>Ajax</li>
+  <li>JQuery</li>
+  <li>HTML5 & CSS3</li>
+  <li>Oracle</li>
+  <li>MyBatis</li>
+  <li>Tomcat</li>
+  <li>IntelliJ</li>
+ </ul>
 
 <h2>구조</h2>
 
