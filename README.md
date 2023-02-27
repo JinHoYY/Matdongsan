@@ -25,7 +25,8 @@
 * 외부 실시간 api
 
 <h2>환경</h2>
-- Java
+<ul>
+  <li>Java</li>
 - Spring
 - JavaScript
 - Ajax
@@ -35,6 +36,7 @@
 - MyBatis
 - Tomcat
 - IntelliJ
+  </ul>
 
 <h2>구조</h2>
 
