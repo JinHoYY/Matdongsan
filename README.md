@@ -25,9 +25,16 @@
 * 외부 실시간 api
 
 <h2>환경</h2>
-java<br>
-spring<br>
-oracle
+- Java
+- Spring
+- JavaScript
+- Ajax
+- JQuery
+- HTML5 & CSS3
+- Oracle
+- MyBatis
+- Tomcat
+- IntelliJ
 
 <h2>구조</h2>
 
