@@ -32,14 +32,10 @@
 
 <h2>환경</h2>
 <ul>
-  <li>Java</li>
-  <li>Spring</li>
-  <li>JavaScript</li>
-  <li>Ajax</li>
-  <li>JQuery</li>
-  <li>HTML5 & CSS3</li>
-  <li>Oracle</li>
-  <li>MyBatis</li>
+  <li>Java, Spring</li>
+  <li>HTML5 & CSS3 & JS</li>
+  <li>Ajax, JQuery</li>
+  <li>Oracle, MyBatis</li>
   <li>Tomcat</li>
   <li>IntelliJ</li>
  </ul>
