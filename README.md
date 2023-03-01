@@ -1,5 +1,5 @@
 # Matdongsan
-<img src="https://user-images.githubusercontent.com />
+
 <h2>기획</h2>
 부동산의 가격정보를 확인하고, 지역 커뮤니티를 통해
 동네 주변 정보를 알아 볼 수 있는 사이트를 기획
