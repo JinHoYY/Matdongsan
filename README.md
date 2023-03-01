@@ -1,6 +1,6 @@
 # Matdongsan
 ![맛동산 로고](https://user-images.githubusercontent.com/116543341/222076070-83af7c18-f0e5-4493-8834-a55dd8e85480.png)
-<img width="300" alt="스크린샷 2023-03-01 오후 4 50 44" src="https://user-images.githubusercontent.com/116543341/222077180-b3192dc7-caab-440d-89e2-2d1c8d88e2bd.png">
+<img width="350" alt="스크린샷 2023-03-01 오후 4 50 44" src="https://user-images.githubusercontent.com/116543341/222077180-b3192dc7-caab-440d-89e2-2d1c8d88e2bd.png">
 
 <h2>기획</h2>
 부동산의 가격정보를 확인하고, 지역 커뮤니티를 통해
